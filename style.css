@@ -1,0 +1,37 @@
+body{
+    background: blue;
+
+}
+.container{
+    height: 900px;
+    width:  900px;
+    background: black;
+}
+
+
+#rOne{
+height: 200px;
+width: 200px;
+background: red;
+margin: 10px;
+padding: 10px;
+border: 100px dashed blue:
+
+}
+
+#rTwo{
+    height: 200px;
+    width: 200px;
+    background: orange;
+    margin: 10px;
+    padding: 10px;
+    border: 100px dashed pink:
+}
+#rThree{
+    height: 200px;
+width: 200px;
+background: yellow;
+margin: 10px;
+padding: 10px;
+border: 100px dashed green:
+}
